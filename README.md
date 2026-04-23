@@ -3,7 +3,7 @@
 A responsive, modern, and visually appealing multi-page website for a coffee shop. Built using HTML, CSS, and JavaScript.
 
 ## 🚀 Demo
-https://harris8099.github.io/Demo-coffee-website/
+Check out the live site here: [https://harris8099.github.io/Demo-coffee-website/]
 
 ## ✨ Features
 - **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
